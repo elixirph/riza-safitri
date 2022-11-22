@@ -33,18 +33,18 @@ const Background = ({ auth }) => {
       </div>
       <div className='content'>
         <div className='heading'>
-          <h1>Ways</h1>
+          <h1>Sari</h1>
           <img src={logo} alt='logo' />
         </div>
-        <h1>Galery</h1>
+        <h1>Wulandari</h1>
         <div className='text-content'>
-          <h2>Show your work to inspire everyone</h2>
-          <p>Ways Exhibition is a website design creators gather to share their work with other creators</p>
+          <h2>I Miss you bae</h2>
+          <p>I hope you here with me & always with me</p>
           <div className='btn btn-primary' onClick={() => setModal('REGISTER')}>
-            Join Now
+            Meet Now With Me
           </div>
           <div className='btn btn-secondary' onClick={() => setModal('LOGIN')}>
-            Login
+            Check In :D
           </div>
         </div>
       </div>
