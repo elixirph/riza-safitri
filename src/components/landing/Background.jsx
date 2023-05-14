@@ -38,13 +38,16 @@ const Background = ({ auth }) => {
         </div>
         <h1>Safitri</h1>
         <div className='text-content'>
-          <h2>maaf yaa zaa udah bikin penasaran</h2>
+          <h2>It started out as a feeling
+Which then grew into a hope
+Which then turned into a quiet thought
+Which then turned into a quiet word</h2>
           <p>hope you here with me zaa</p>
           <div className='btn btn-primary' onClick={() => setModal('REGISTER')}>
-            Meet Now With Me
+            Meet now
           </div>
           <div className='btn btn-secondary' onClick={() => setModal('LOGIN')}>
-            Tomorrow meet :D
+            Meet Tommorrow
           </div>
         </div>
       </div>
